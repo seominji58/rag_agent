@@ -1,3 +1,6 @@
+- streamlit 실행
+streamlit run main.py
+
 pip install openai
 pip install langchain
 pip install langchain-core
@@ -9,5 +12,5 @@ pip install streamlit
 pip install streamlit-extras
 pip install chromadb
 pip install langsmith
-
-conda activate %CD%\envs 해야지 envs내부 프로젝트에 가상환경 실행됨
+pip install pypdf
+pip install langchain_community
